@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = moamen.baset@gmail.com
+	name = muamen baset
